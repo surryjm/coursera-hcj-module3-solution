@@ -1,2 +1,2 @@
-# module2-solution
-Coursera HTML, CSS, JS class module 2 assignment
+# module3-solution
+Coursera HTML, CSS, JS class module 3 assignment
